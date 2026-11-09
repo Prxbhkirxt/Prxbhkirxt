@@ -1,6 +1,8 @@
 ## Hi there 👋,
 I'm Prabhkirat Singh — a Computer Science Engineering student currently building a solid foundation in software development and algorithmic problem-solving.
+
 For me, software development goes beyond writing syntax. I genuinely enjoy deconstructing complex challenges into clean, modular logic and watching raw concepts evolve into reliable tools. My goal is to engineer practical applications that solve tangible problems and remain accessible to everyone, using technology to bridge gaps and create meaningful impact.I am proficient in C, Python, and SQL, with a continuous focus on strengthening my grasp of core data structures, algorithms, and system design principles.
+
 I'm always open to connecting for collaborative projects, open-source initiatives, internships, or thoughtful conversations around tech and software engineering. Lets connect!
 
 ## 🌐 Socials:
